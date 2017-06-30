@@ -1,1 +1,1 @@
-my TS
+var str:String;
